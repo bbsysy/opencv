@@ -1,6 +1,7 @@
 ## OpenCV: Open Source Computer Vision Library
 
 ### Resources
+#### hog와 haar cascade xml파일 얻기 위해 fork해왔다.
 
 * Homepage: <https://opencv.org>
   * Courses: <https://opencv.org/courses>
